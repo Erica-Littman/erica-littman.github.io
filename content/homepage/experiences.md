@@ -14,11 +14,7 @@ experiences:
 
       - Analyze insect phenotypes and reactions when exposed to repellents such as DEET and γ-Octolactone to develop sustainable pesticides.
 
-      - Clone odorant, ionotropic, and gustatory receptors. 
-
       - Manage and maintain large colonies of mosquitos. 
-
-      - Perform gene silencing and genetic knockout experiments.
       
       - Synthesize data into organized technical reports for posters and later publications. 
   - title: Undergraduate Researcher
@@ -30,10 +26,6 @@ experiences:
       Research Assistant at the Hartmann Laboratory of Northwestern University, researching antibiotic resistance.
 
       - Evaluate the various factors involved in multi-drug resistant strains of Pseudomonas such as P. aeruginosa, P. stutzeri, P. fluorescence, and P. fulva via transposon mutagenesis and gene deletion to characterize the mexAB-oprM operon and its homologs.
-
-      - Identify homologous genes across strains of Pseudomonas conferring antibiotic resistance. 
-
-      - Conduct gDNA extractions for whole genome sequencing.
 
       - Add information to and edit Wikipedia pages.  
 
