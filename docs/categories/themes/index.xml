@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>themes on Erica Littman</title>
+    <link>https://erica-littman.github.io/categories/themes/</link>
+    <description>Recent content in themes on Erica Littman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://erica-littman.github.io/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://erica-littman.github.io/posts/test_post/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erica-littman.github.io/posts/test_post/</guid>
+      <description>This is a big title You can add text by just typing things here
+This is a smaller title The number of # in front of text determines the title size
+Links and images You can create a hyper link with the following syntax
+[Text to show](http://your-link.com)
+This would look like Text to show
+You can display images in a similar way. All you need to do is place the image in the static/images folder. Then display it by linking to it but adding an !</description>
+    </item>
+    
+    <item>
+      <title>This is a template post is a title</title>
+      <link>https://erica-littman.github.io/posts/featured-image/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erica-littman.github.io/posts/featured-image/</guid>
+      <description>This is a big title You can add text by just typing things here
+This is a smaller title The number of # in front of text determines the title size
+Links and images You can create a hyper link with the following syntax
+[Text to show](http://your-link.com)
+This would look like Text to show
+You can display images in a similar way. All you need to do is place the image in the static/images folder. Then display it by linking to it but adding an !</description>
+    </item>
+    
+  </channel>
+</rss>
