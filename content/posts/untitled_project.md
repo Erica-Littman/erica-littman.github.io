@@ -8,8 +8,8 @@ tags:
   - portfolio
 categories:
 series:
-date: '2020-10-26'
-lastmod: '2021-01-10'
+date: '2020-01-07'
+lastmod: '2020-01-17'
 FeaturedImage: images/megan-leong-W5v_zW9Oog4-unsplash.jpg
 draft: false
 ---

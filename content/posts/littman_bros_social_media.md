@@ -8,8 +8,8 @@ tags:
   - portfolio
 categories:
 series:
-date: '2020-05-26'
-lastmod: '2020-11-03'
+date: '2021-02-01'
+lastmod: '2021-02-01'
 FeaturedImage: images/lb_p1.png
 draft: false
 ---
