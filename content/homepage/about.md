@@ -7,7 +7,7 @@ bio: I post about my experience with invisible illness, personal writing
      projects, and of course my cat Bubbles.
 organization:
   name: University of California, Davis
-  url: https://ericalittman.com
+  
 social:
   - icon: envelope
     iconPack: fas
