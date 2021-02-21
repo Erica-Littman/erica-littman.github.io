@@ -3,8 +3,13 @@ title: Erica Littman
 draft: false
 role: Post-Bac researcher in biochemistry, creative writer
 avatar: images/avatar.jpg
-bio: I post about my experience with invisible illness, personal writing
-     projects, and of course my cat Bubbles.
+bio: I post about my experience with invisible illness, examples of my 
+     personal and professional writing projects, 
+     and of course my cat Bubbles. I am currently looking to 
+     increasingly shift my professional focus towards writing and communications, 
+     and am especially interested in positions that value mentor-mentee style
+     relationships. 
+     
 organization:
   name: University of California, Davis
   
