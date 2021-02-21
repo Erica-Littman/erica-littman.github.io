@@ -8,7 +8,7 @@ bio: I post about my experience with invisible illness, examples of my
      and of course my cat Bubbles. I am currently looking to 
      increasingly shift my professional focus towards writing and communications, 
      and am especially interested in positions that value mentor-mentee style
-     relationships. 
+     relationships and on-the job learning. 
      
 organization:
   name: University of California, Davis
