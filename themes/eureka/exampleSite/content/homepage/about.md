@@ -14,8 +14,8 @@ social:
   - icon: twitter
     iconPack: fab
     url: https://example.com/
-  - icon: github
-    iconPack: fab
+  - icon: /home/ethan/Documents/github/erica-littman.github.io/static/icons/download.png
+    # iconPack: fab
     url: https://example.com/
 
 weight: 1

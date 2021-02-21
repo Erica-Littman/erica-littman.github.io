@@ -4,7 +4,6 @@ title: Erica Littman
 # Comment when installing using Hugo Modules
 theme: eureka
 # Uncomment when installing using Hugo Modules
-# theme: github.com/wangchucheng/hugo-eureka
 
 paginate: 3
 enableEmoji: true
