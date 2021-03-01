@@ -22,7 +22,7 @@ social:
     url: https://www.linkedin.com/in/erica-littman-437a5a19a/
   - icon: file-download
     iconPack: fas
-    url: /documents/Erica_A_Littman_Resume.pdf
+    url: documents/Erica_A_Littman_Resume.pdf
   - icon: github
     iconPack: fab
     url: https://github.com/Erica-Littman/
