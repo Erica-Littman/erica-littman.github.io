@@ -1,18 +1,19 @@
 ---
 title: Erica Littman
 draft: false
-role: Post-Bac researcher in biochemistry, creative writer
-avatar: images/avatar.jpg
+role: <font size="+1">Content manager, biologist, creative writer. <font size="-1"> <p>All thoughts and opinions reflected here are my own.
+avatar: images/avatar.jpg    
 bio: I post about my experience with invisible illness, examples of my 
-     personal and professional writing projects, 
+     personal and professional writing projects, document growing cannabis, 
      and of course my cat Bubbles. I am currently looking to 
      increasingly shift my professional focus towards writing and communications, 
      and am especially interested in positions that value mentor-mentee style
-     relationships and on-the job learning. 
-     
+     relationships and on-the-job learning.
+
 organization:
-  name: University of California, Davis
-  
+  name: <font size="+1">Lighting Reimagined Web Content Creator
+  url: https://www.lightingreimagined.com  
+
 social:
   - icon: envelope
     iconPack: fas
@@ -51,5 +52,3 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
-

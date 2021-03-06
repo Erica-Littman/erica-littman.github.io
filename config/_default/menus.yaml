@@ -2,6 +2,15 @@ main:
   - name: About
     url: '#about'
     weight: 1
-  - name: Posts
+  - name: All Posts
     url: /posts/
+    weight: 5
+  - name: Grow Journal
+    url: /growjournal/
     weight: 2
+  - name: Personal
+    url: /personal/
+    weight: 3
+  - name: Professional
+    url: /professional/
+    weight: 4

@@ -31,7 +31,7 @@ experiences:
 
       - Synthesize data into organized technical reports for posters and later publications. 
 
-weight: 3
+weight: 4
 widget:
   handler: experiences
 
