@@ -1,6 +1,6 @@
 ---
 title: Germination to Seedling
-description: 
+description: post with featured image
 toc: true
 tags:
   - cannabis
