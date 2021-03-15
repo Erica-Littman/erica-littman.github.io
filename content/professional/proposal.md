@@ -1,6 +1,6 @@
 ---
 title: Genetic Factors that Confer PAH Metabolism in Thalassospira tepidiphila 
-description: Post with featured image.
+description: 
 toc: true
 tags:
   - marketing
@@ -10,7 +10,7 @@ categories:
 series:
 date: '2018-03-05'
 lastmod: '2018-03-05'
-FeaturedImage: images/phytoplankton_2020228_web.jpg
+
 draft: false
 ---
 
@@ -48,4 +48,3 @@ By identifying the genetic factors conferring PAH metabolism in T. tepidiphila, 
 
 1.) Fahnestiel, et al., Elsevier 2010; 2. Kodama, Stiknowati, et al. Int. Jorn. of Sys. and Evo. Micro., 2008; 3. Lai, Shao, The Third Inst. of Ocea., 2014; 4. Wang, Fingas, et al., Jorn. Of Chrom., 1998; 5. Kim, Kwon, Hand. of Hyd. & Lip. Micro. 2010; 6. Karacik, B, et al., Enviro. Int. 2009; 7. Todd, Peter A., et al., Spr-Sci 2010; 8. González, Figueiras, et al., Est. Coast. & Sh. Sci. 2009; 9. Annweiler, E., et al., App. & Env. Micro., 2000; 10. Gao, Shumei, et al., Int. Biodet. & Biodeg. 2013; 11. Kim, Seong-Jae, et al., 2007; 13. Su, Xiaoyang, et al., 2017; 14. Lin, Kevin, and Alice Wang, 2001; 15. Golden, et al., 2004; Cerezo, et al., 2014; 16. Shivaji, et al., 2015; 17. Kruk, et al., 2002;18Echeveste, et al., 2010. 
  
-<p><i>NASA Earth Observatory images by <a href="https://earthobservatory.nasa.gov/about/joshua-stevens">Joshua Stevens</a>, using Landsat data from the <a href="http://earthexplorer.usgs.gov">U.S. Geological Survey</a>.

@@ -1,6 +1,6 @@
 ---
 title: Genetic Factors that Confer PAH Metabolism in Thalassospira tepidiphila 
-description: Post with featured image.
+
 toc: true
 tags:
   - marketing
@@ -10,11 +10,11 @@ categories:
 series:
 date: '2018-03-05'
 lastmod: '2018-03-05'
-FeaturedImage: images/phytoplankton_2020228_web.jpg
+
 draft: false
 ---
 
-## Background
+
 
 This is a grant proposal I wrote for the course Advanced Molecular Microbiology at Northwestern University on using phytoplankton as a microplastic removal tactic in marine ecosystems.
 

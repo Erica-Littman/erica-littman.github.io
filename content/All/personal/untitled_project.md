@@ -1,6 +1,6 @@
 ---
 title: Prologue to untitled novel project
-description: Post with featured image.
+description: 
 toc: true
 tags:
   - marketing
@@ -10,11 +10,11 @@ categories:
 series:
 date: '2020-01-07'
 lastmod: '2020-01-17'
-FeaturedImage: images/megan-leong-W5v_zW9Oog4-unsplash.jpg
+
 draft: false
 ---
 
-## Background
+
 
 This is the prologue to a story I began workshopping in a class entitled “Fabulous Fictions” 
 and have continued to work on throughout the pandemic. I am still working on this piece 

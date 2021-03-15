@@ -10,11 +10,10 @@ categories:
 series:
 date: '2020-01-07'
 lastmod: '2020-01-17'
-FeaturedImage: images/megan-leong-W5v_zW9Oog4-unsplash.jpg
+FeaturedImage: 
 draft: false
 ---
 
-## Background
 
 This is the prologue to a story I began workshopping in a class entitled “Fabulous Fictions” 
 and have continued to work on throughout the pandemic. I am still working on this piece 
@@ -49,4 +48,3 @@ A vicious wind, beginning at the east end of the forest, and picking up speed as
 
 They stood, stunned, waiting for their parents to run out from the tree line. But the only life to break through the thicket was the pack of wolves. Running wildly and urgently, they fled the storm, stampeding past the homestead towards the north end of the ranch. The oldest of the pack limped out behind the rest, pausing to stare at the young woman. Their eye contact was broken only by the sound of a tornado crashing towards them with the ferocity of a train. Unpanicked, the wolf bound away as the funnel spun in place, the widest parts of which were no more than fifteen feet from the porch steps, before it slowly dissipated, and the sky cleared. 
 
-<span>Photo by <a href="https://unsplash.com/@wolfwords?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Megan Leong</a> on <a href="https://unsplash.com/s/photos/basin-night?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

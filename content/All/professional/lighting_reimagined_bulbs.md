@@ -10,11 +10,11 @@ categories:
 series:
 date: '2020-03-20'
 lastmod: '2020-11-05'
-FeaturedImage: images/christian-dubovan-gxsRL8B_ZqE-unsplash.jpg
+FeaturedImage: 
 draft: false
 ---
 
-## Background
+
 
 This is a short informational article written for 
 [Lighting Reimagined](https://lightingreimagined.com/)

@@ -2,11 +2,11 @@
 title: Recent Posts
 draft: false
 # Sections you want to display
-section: posts
+section: All  
 # Pages count
 count: 5
 # Options: card, plain and masonry.
-style: plain
+style: card
 
 weight: 3
 widget:
@@ -31,4 +31,6 @@ widget:
     position:
     # Options: fixed, local, scroll.
     attachment: 
+
+
 ---

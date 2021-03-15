@@ -10,7 +10,7 @@ categories:
 series:
 date: '2020-03-20'
 lastmod: '2020-11-05'
-FeaturedImage: images/christian-dubovan-gxsRL8B_ZqE-unsplash.jpg
+
 draft: false
 ---
 
@@ -45,5 +45,3 @@ Typical fluorescent bulbs operate the exact same way as compact fluorescent ligh
 While the vast variety of options when it comes to lightbulb shopping can seem daunting, the Lighting Reimagined experts can help you find exactly what you need for whatever space you need to illuminate!
 
  
-
-<span>Photo by <a href="https://unsplash.com/@cdubo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christian Dubovan</a> on <a href="https://unsplash.com/s/photos/light-bulb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
