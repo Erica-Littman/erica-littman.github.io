@@ -1,14 +1,13 @@
 ---
-headless: true
-draft: false
+title: Recent
 # Sections you want to display
-section: personal
+section: growjournal
 # Pages count
 count: 3
 # Options: card, plain and masonry.
 style: card
 
-weight: 2
+weight: 1
 widget:
   handler: pages
 
@@ -31,8 +30,4 @@ widget:
     position:
     # Options: fixed, local, scroll.
     attachment: 
-
-
-
-
 ---

@@ -10,7 +10,7 @@ categories:
 series:
 date: '2021-03-07'
 lastmod: '2021-03-7'
-FeaturedImage: 
+FeaturedImage: "/images/seedling9.jpg"
 draft: false
 ---
 ### *February 25th, 2021 – March 12th, 2021; OG Kush Deep-Water Culture* 

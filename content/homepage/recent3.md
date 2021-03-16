@@ -2,13 +2,13 @@
 headless: true
 draft: false
 # Sections you want to display
-section: personal
+section: professional
 # Pages count
-count: 3
+count: 2
 # Options: card, plain and masonry.
 style: card
 
-weight: 2
+weight: 3
 widget:
   handler: pages
 
